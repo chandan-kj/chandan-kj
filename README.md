@@ -1,6 +1,6 @@
 ## Welcome ##
 
-Hey I'm chandan KJ. I'm self taught web developer,FOR I know 
+Hey I'm chandan KJ. I'm web developer,I know 
 
 HTML 
 CSS
